@@ -1,0 +1,38 @@
+﻿{
+  "ProductPage": [
+    {
+      "latency": 812,
+      "tti": 1147,
+      "total_time": 2693,
+      "ttl": 716,
+      "onload": 1
+    }
+  ],
+  "LaptopsPage": [
+    {
+      "latency": 1397,
+      "tti": 574,
+      "total_time": 2058,
+      "ttl": 68,
+      "onload": 0
+    }
+  ],
+  "ComputersPage": [
+    {
+      "latency": 1739,
+      "tti": 623,
+      "total_time": 2509,
+      "ttl": 99,
+      "onload": 0
+    }
+  ],
+  "MainPage": [
+    {
+      "latency": 1252,
+      "tti": 1086,
+      "total_time": 2806,
+      "ttl": 388,
+      "onload": 38
+    }
+  ]
+}

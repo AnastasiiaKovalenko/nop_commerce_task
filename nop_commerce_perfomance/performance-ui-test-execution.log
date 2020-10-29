@@ -1,0 +1,67 @@
+22:11:20.962 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:11:21.925 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"MainPage":[{"latency":688,"tti":1101,"total_time":2257,"ttl":385,"onload":40}]}
+22:11:21.927 [main] INFO  pages.MainPage - Main page is loaded
+22:11:24.190 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:11:24.427 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ComputersPage":[{"latency":693,"tti":673,"total_time":1590,"ttl":151,"onload":0}],"MainPage":[{"latency":688,"tti":1101,"total_time":2257,"ttl":385,"onload":40}]}
+22:11:24.427 [main] INFO  pages.ComputersPage - Computers page is loaded
+22:11:26.155 [main] INFO  pages.DesktopsPage - Clicked on 'laptopsPageButton'
+22:11:26.393 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:11:26.411 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"LaptopsPage":[{"latency":681,"tti":505,"total_time":1358,"ttl":156,"onload":0}],"ComputersPage":[{"latency":693,"tti":673,"total_time":1590,"ttl":151,"onload":0}],"MainPage":[{"latency":688,"tti":1101,"total_time":2257,"ttl":385,"onload":40}]}
+22:11:26.411 [main] INFO  pages.DesktopsPage - Laptops list is appeared
+22:11:26.514 [main] INFO  pages.DesktopsPage - Let's grab first laptop: Build your own computer
+22:23:52.178 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:23:52.980 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"MainPage":[{"latency":665,"tti":1240,"total_time":2385,"ttl":392,"onload":40}]}
+22:23:52.984 [main] INFO  pages.MainPage - Main page is loaded
+22:23:56.091 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:23:56.410 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ComputersPage":[{"latency":913,"tti":1032,"total_time":2288,"ttl":312,"onload":0}],"MainPage":[{"latency":665,"tti":1240,"total_time":2385,"ttl":392,"onload":40}]}
+22:23:56.412 [main] INFO  pages.ComputersPage - Computers page is loaded
+22:23:58.572 [main] INFO  pages.DesktopsPage - Clicked on 'laptopsPageButton'
+22:23:58.801 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:23:58.815 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"LaptopsPage":[{"latency":761,"tti":783,"total_time":1761,"ttl":200,"onload":0}],"ComputersPage":[{"latency":913,"tti":1032,"total_time":2288,"ttl":312,"onload":0}],"MainPage":[{"latency":665,"tti":1240,"total_time":2385,"ttl":392,"onload":40}]}
+22:23:58.817 [main] INFO  pages.DesktopsPage - Laptops list is appeared
+22:23:58.926 [main] INFO  pages.DesktopsPage - Let's grab first laptop: Build your own computer
+22:24:03.014 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:24:03.027 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ProductPage":[{"latency":634,"tti":1725,"total_time":3434,"ttl":1044,"onload":0}],"LaptopsPage":[{"latency":761,"tti":783,"total_time":1761,"ttl":200,"onload":0}],"ComputersPage":[{"latency":913,"tti":1032,"total_time":2288,"ttl":312,"onload":0}],"MainPage":[{"latency":665,"tti":1240,"total_time":2385,"ttl":392,"onload":40}]}
+22:24:03.029 [main] INFO  pages.DesktopsPage - Asserted that the laptop we wanted to open and actually opened laptop are the same product
+22:38:54.570 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:38:55.615 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"MainPage":[{"latency":603,"tti":1321,"total_time":2379,"ttl":390,"onload":43}]}
+22:38:55.618 [main] INFO  pages.MainPage - Main page is loaded
+22:38:57.753 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:38:57.995 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ComputersPage":[{"latency":665,"tti":723,"total_time":1567,"ttl":161,"onload":1}],"MainPage":[{"latency":603,"tti":1321,"total_time":2379,"ttl":390,"onload":43}]}
+22:38:57.998 [main] INFO  pages.ComputersPage - Computers page is loaded
+22:38:59.787 [main] INFO  pages.DesktopsPage - Clicked on 'laptopsPageButton'
+22:38:59.997 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:39:00.013 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"LaptopsPage":[{"latency":699,"tti":633,"total_time":1427,"ttl":80,"onload":0}],"ComputersPage":[{"latency":665,"tti":723,"total_time":1567,"ttl":161,"onload":1}],"MainPage":[{"latency":603,"tti":1321,"total_time":2379,"ttl":390,"onload":43}]}
+22:39:00.015 [main] INFO  pages.DesktopsPage - Laptops list is appeared
+22:39:00.137 [main] INFO  pages.DesktopsPage - Let's grab first laptop: Build your own computer
+22:39:03.705 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:39:03.716 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ProductPage":[{"latency":646,"tti":1557,"total_time":3100,"ttl":875,"onload":1}],"LaptopsPage":[{"latency":699,"tti":633,"total_time":1427,"ttl":80,"onload":0}],"ComputersPage":[{"latency":665,"tti":723,"total_time":1567,"ttl":161,"onload":1}],"MainPage":[{"latency":603,"tti":1321,"total_time":2379,"ttl":390,"onload":43}]}
+22:39:03.718 [main] INFO  pages.DesktopsPage - Asserted that the laptop we wanted to open and actually opened laptop are the same product
+22:40:52.825 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:40:53.557 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"MainPage":[{"latency":637,"tti":1152,"total_time":2232,"ttl":381,"onload":39}]}
+22:40:53.559 [main] INFO  pages.MainPage - Main page is loaded
+22:40:55.622 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:40:55.842 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ComputersPage":[{"latency":683,"tti":693,"total_time":1555,"ttl":131,"onload":0}],"MainPage":[{"latency":637,"tti":1152,"total_time":2232,"ttl":381,"onload":39}]}
+22:40:55.844 [main] INFO  pages.ComputersPage - Computers page is loaded
+22:40:57.424 [main] INFO  pages.DesktopsPage - Clicked on 'laptopsPageButton'
+22:40:57.614 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:40:57.619 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"LaptopsPage":[{"latency":686,"tti":485,"total_time":1251,"ttl":58,"onload":0}],"ComputersPage":[{"latency":683,"tti":693,"total_time":1555,"ttl":131,"onload":0}],"MainPage":[{"latency":637,"tti":1152,"total_time":2232,"ttl":381,"onload":39}]}
+22:40:57.622 [main] INFO  pages.DesktopsPage - Laptops list is appeared
+22:40:57.718 [main] INFO  pages.DesktopsPage - Let's grab first laptop: Build your own computer
+22:41:00.639 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+22:41:00.653 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ProductPage":[{"latency":652,"tti":1184,"total_time":2469,"ttl":613,"onload":0}],"LaptopsPage":[{"latency":686,"tti":485,"total_time":1251,"ttl":58,"onload":0}],"ComputersPage":[{"latency":683,"tti":693,"total_time":1555,"ttl":131,"onload":0}],"MainPage":[{"latency":637,"tti":1152,"total_time":2232,"ttl":381,"onload":39}]}
+22:41:00.654 [main] INFO  pages.DesktopsPage - Asserted that the laptop we wanted to open and actually opened laptop are the same product
+23:28:14.339 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+23:28:15.638 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"MainPage":[{"latency":1252,"tti":1086,"total_time":2806,"ttl":388,"onload":38}]}
+23:28:15.638 [main] INFO  pages.MainPage - Main page is loaded
+23:28:18.619 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+23:28:18.835 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ComputersPage":[{"latency":1739,"tti":623,"total_time":2509,"ttl":99,"onload":0}],"MainPage":[{"latency":1252,"tti":1086,"total_time":2806,"ttl":388,"onload":38}]}
+23:28:18.843 [main] INFO  pages.ComputersPage - Computers page is loaded
+23:28:21.259 [main] INFO  pages.DesktopsPage - Clicked on 'laptopsPageButton'
+23:28:21.451 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+23:28:21.467 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"LaptopsPage":[{"latency":1397,"tti":574,"total_time":2058,"ttl":68,"onload":0}],"ComputersPage":[{"latency":1739,"tti":623,"total_time":2509,"ttl":99,"onload":0}],"MainPage":[{"latency":1252,"tti":1086,"total_time":2806,"ttl":388,"onload":38}]}
+23:28:21.467 [main] INFO  pages.DesktopsPage - Laptops list is appeared
+23:28:21.563 [main] INFO  pages.DesktopsPage - Let's grab first laptop: Build your own computer
+23:28:24.654 [main] INFO  navigationtiming.PerfNavigationTiming - Writing data to the new JSON file, dedicated to store performance results data
+23:28:24.654 [main] INFO  navigationtiming.PerfNavigationTiming - JSON Object: {"ProductPage":[{"latency":812,"tti":1147,"total_time":2693,"ttl":716,"onload":1}],"LaptopsPage":[{"latency":1397,"tti":574,"total_time":2058,"ttl":68,"onload":0}],"ComputersPage":[{"latency":1739,"tti":623,"total_time":2509,"ttl":99,"onload":0}],"MainPage":[{"latency":1252,"tti":1086,"total_time":2806,"ttl":388,"onload":38}]}
+23:28:24.662 [main] INFO  pages.DesktopsPage - Asserted that the laptop we wanted to open and actually opened laptop are the same product
